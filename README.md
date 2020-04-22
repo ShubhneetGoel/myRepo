@@ -1,2 +1,2 @@
-# myZaps
-Repository to use with zapier integraton
+# myRepo
+Repository to use with api integraton
